@@ -49,7 +49,7 @@ This course at times can get a little abstract compared to PHYS211. A good strat
 
 ## Life After
 
-The following course in the PHYS sequence is [PHYS214](PHYS214.md). This course, as mentioned before, helps a lot in understanding concepts in electronics and electromagnetism courses such as [ECE110](ECE110.md), [ECE210](ECE210.md), and [ECE330](ECE330.md). The core of the ECE210 curriculum pretty much builds off of the LRC circuits unit of PHYS212, where the basic ideas of phasors, periodic input signals, and circuit response are introduced, albeit without complex numbers. Particularly, however, [ECE329](ECE329.md) and [ECE350](ECE350.md), require a strong foundation in much of the core material in PHYS212 such as electrostatics, capacitors, electromagnetic fields, and Maxwell's equations, as these courses will build on those ideas in greater rigor.
+The following course in the PHYS sequence is [PHYS214](PHYS214.md), which expects basic knowledge of electrostatics and electromagnetic waves. This course, as mentioned before, helps a lot in understanding concepts in electronics and electromagnetism courses such as [ECE110](ECE110.md), [ECE210](ECE210.md), and [ECE330](ECE330.md). The core of the ECE210 curriculum pretty much builds off of the LRC circuits unit of PHYS212, where the basic ideas of phasors, periodic input signals, and circuit response are introduced, albeit without complex numbers. Particularly, however, [ECE329](ECE329.md) and [ECE350](ECE350.md), require a strong foundation in much of the core material in PHYS212 such as electrostatics, capacitors, electromagnetic fields, and Maxwell's equations, as these courses will build on those ideas in greater rigor.
 
 ## Infamous Topics
 
